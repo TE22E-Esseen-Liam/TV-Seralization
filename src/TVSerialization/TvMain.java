@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class TvMain {
 
-
+    private ArrayList<TvSeries> shows = new ArrayList<>();
+    Scanner myScan = new Scanner(System.in);
 
 }
